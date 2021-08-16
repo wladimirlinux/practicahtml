@@ -1,2 +1,2 @@
 # practicahtml
-curso de html linkedid
+curso de html linkedin
